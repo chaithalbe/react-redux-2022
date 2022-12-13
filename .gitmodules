@@ -1,0 +1,12 @@
+[submodule "app1-translate"]
+	path = app1-translate
+	url = https://github.com/chaithalbe/app1-translate.git
+[submodule "app2-jsx"]
+	path = app2-jsx
+	url = https://github.com/chaithalbe/app2-jsx.git
+[submodule "app3-pdas"]
+	path = app2-jsx
+	url = https://github.com/chaithalbe/app3-pdas.git
+[submodule "app4-animals"]
+	path = app2-jsx
+	url = https://github.com/chaithalbe/app4-animals.git
