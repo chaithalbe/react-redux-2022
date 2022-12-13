@@ -5,8 +5,8 @@
 	path = app2-jsx
 	url = https://github.com/chaithalbe/app2-jsx.git
 [submodule "app3-pdas"]
-	path = app2-jsx
+	path = app3-pdas
 	url = https://github.com/chaithalbe/app3-pdas.git
 [submodule "app4-animals"]
-	path = app2-jsx
+	path = app4-animals
 	url = https://github.com/chaithalbe/app4-animals.git
