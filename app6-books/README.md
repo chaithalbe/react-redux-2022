@@ -8,4 +8,5 @@ Concepts and features:
 -   Adding and Removing elements
 -   Data Persistence with API requests using `json-server`
 -   Using the React Context system
--
+-   Introduction to Hooks
+-   Writing a custom hook
