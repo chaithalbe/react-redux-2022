@@ -29,3 +29,8 @@ Concepts & Features
     -   Navigation Context
     -   Cmd + click should open the app in new tab
 -   SideBar Component
+-   Modal Component
+    -   position absolute, why it doesn't work for Modal without Portal
+    -   Using React Portal, `ReactDOM.createPortal()`
+    -   Fix the scrolling issue
+    -   Using position fixed to display the Modal whereever we are scrolled in the document
