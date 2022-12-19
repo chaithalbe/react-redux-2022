@@ -40,3 +40,5 @@ Concepts & Features
     -   Fixed Cell rows
     -   Sorting in Javascript and on the table columns
     -   React Fragments
+    -   Write custom hook to reuse logic in `SortableTable`
+    -   Performance Improvements
