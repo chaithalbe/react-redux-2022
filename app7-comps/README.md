@@ -34,3 +34,9 @@ Concepts & Features
     -   Using React Portal, `ReactDOM.createPortal()`
     -   Fix the scrolling issue
     -   Using position fixed to display the Modal whereever we are scrolled in the document
+-   Table Component
+    -   Refresher on HTML `table`
+    -   Dynamic Table headers
+    -   Fixed Cell rows
+    -   Sorting in Javascript and on the table columns
+    -   React Fragments
