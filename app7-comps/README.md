@@ -42,3 +42,5 @@ Concepts & Features
     -   React Fragments
     -   Write custom hook to reuse logic in `SortableTable`
     -   Performance Improvements
+-   `useReducer` hook
+-   `immer` library
