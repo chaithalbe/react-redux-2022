@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Laurence Hilll",
+      "id": 2
+    },
+    {
+      "name": "Hugo Gutkowski",
+      "id": 3
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
